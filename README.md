@@ -8,4 +8,4 @@
 ### 추가 정보
 
 - **행사 공식 웹사이트:** [IRO 공식 홈페이지](https://iroc.kr/)
-- **활동 관련 문서 및 사진:** [GitHub Repository](https://github.com/beomdo-park/Portfolio/2025/0116_0121_IRO)
+- **활동 관련 문서 및 사진:** [GitHub Repository](https://github.com/beomdo-park/Portfolio/tree/main/2025/0116_0121_IRO)
