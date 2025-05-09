@@ -24,6 +24,6 @@
 ### 추가 정보
 
 - **활동 관련 문서 및 사진:** [2025/0205_0207_KICS_Conference](https://github.com/beomdo-park/Portfolio/tree/main/2025/0205_0207_KICS_Conference)
-- **행사 공식 웹사이트:** [한국통신학회 홈페이지](https://conf.kics.or.kr/)
+- **행사 공식 웹사이트:** [한국통신학회 동계 학술대회 홈페이지](https://conf.kics.or.kr/2025w/)
 
 <!-- </details> -->
