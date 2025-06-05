@@ -28,11 +28,11 @@
   
 ## 데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional)
 
-**취득 일자:** 2025년 6월 13일
+**취득 일자:** 2025년 6월 13일  
 데이터분석 준전문가란 데이터 이해에 대한 기본지식을 바탕으로 데이터분석 기획 및 데이터분석 등의 직무를 수행하는 실무자를 말한다.
 ### 추가 정보
 
 - **합격증:** [2025 ADsP](https://github.com/beomdo-park/Portfolio/tree/main/2025/ADsP)
-- **행사 공식 웹사이트:** [Kdata ADsP 소개](https://www.dataq.or.kr/www/sub/a_06.do)
+- **행사 공식 웹사이트:** [Kdata-ADsP 소개](https://www.dataq.or.kr/www/sub/a_06.do)
 
 <!-- </details> -->
