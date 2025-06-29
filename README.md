@@ -4,7 +4,7 @@
 <details open>
   <summary style="font-size: 2em; font-weight: bold;">2025년 활동</summary> -->
 
-## IRO 2024/25 세계대회 🤖
+## IRO 2024/25 세계대회
 **장소:** 부산 벡스코  
 **기간:** 2025년 1월 16일 ~ 2025년 1월 21일
 
