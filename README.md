@@ -35,4 +35,16 @@
 - **합격증:** [2025 ADsP](https://github.com/beomdo-park/Portfolio/tree/main/2025/ADsP)
 - **행사 공식 웹사이트:** [Kdata-ADsP 소개](https://www.dataq.or.kr/www/sub/a_06.do)
 
+
+## 대한전자공학회 2025년도 하계종합학술대회
+
+**장소:** 롯데호텔 제주(중문)  
+**기간:** 2025년 6월 24일 ~ 2025년 6월 27일
+
+### 추가 정보
+
+- **활동 관련 문서 및 사진:** [2025/0205_0207_KICS_Conference](https://github.com/beomdo-park/Portfolio/tree/main/2025/0624_0627_IEIE_Conference)
+- **행사 공식 웹사이트:** [대한전자공학회 하계종합학술대회 홈페이지](https://conf.theieie.org/2025s/)  
+
+
 <!-- </details> -->
