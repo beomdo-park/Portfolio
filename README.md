@@ -33,7 +33,7 @@
 ### 추가 정보
 
 - **합격증:** [2025 ADsP](https://github.com/beomdo-park/Portfolio/tree/main/2025/ADsP.pdf)
-- **행사 공식 웹사이트:** [Kdata-ADsP 소개](https://www.dataq.or.kr/www/sub/a_06.do)
+- **행사 공식 웹사이트:** [ADsP 소개(Kdata)](https://www.dataq.or.kr/www/sub/a_06.do)
 
 
 ## 대한전자공학회 2025년도 하계종합학술대회
