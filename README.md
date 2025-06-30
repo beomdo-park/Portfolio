@@ -33,8 +33,17 @@
 ### 추가 정보
 
 - **합격증:** [2025 ADsP](https://github.com/beomdo-park/Portfolio/tree/main/2025/ADsP.pdf)
-- **행사 공식 웹사이트:** [ADsP 소개(Kdata)](https://www.dataq.or.kr/www/sub/a_06.do)
+- **웹사이트:** [ADsP 소개(Kdata)](https://www.dataq.or.kr/www/sub/a_06.do)
 
+## ABC 프로젝트 멘토링
+
+**주관:** 유클리드 소프트  
+**기간:** 2025년 5월 20일 ~ 2025년 6월 30일
+
+### 추가 정보
+
+- **활동 관련 문서 및 사진:** [2025/0520_0630_ABC_Mentoring](https://github.com/beomdo-park/Portfolio/tree/main/2025/0520_0630_ABC_Mentoring)
+- **내용:** 산업 전력 소비량의 이상치 검출 및 최적화를 통한 에너지 소비량 감축
 
 ## 대한전자공학회 2025년도 하계종합학술대회
 
