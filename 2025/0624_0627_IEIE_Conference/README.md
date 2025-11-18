@@ -25,3 +25,4 @@
 
 **배운 점**  
 다른 연구자들과의 네트워킹을 통해 새로운 아이디어를 얻고, 연구 분야의 최신 동향을 파악할 수 있는 의미 있는 시간이었습니다.
+<img width="2000" height="2827" alt="image" src="https://github.com/user-attachments/assets/c7ad8c85-4532-4a9e-a77a-37938e8a8625" />
